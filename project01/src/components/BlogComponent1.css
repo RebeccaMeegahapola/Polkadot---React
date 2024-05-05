@@ -1,0 +1,109 @@
+.text-center {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.submit1{
+    width: 125px;
+    font-size: 16px;
+    color: #b7b8bb;
+    height: 35px;
+    text-align: center;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    background-color: inherit;
+}
+
+.submit2{
+    color: #e6007a;
+    font-size: 16px;
+    width: 70px;
+    height: 35px;
+    text-align: center;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    background-color: inherit;
+}
+
+.submit2:hover {
+    color: #e6007a;
+    background-color: #ffe5ff;
+    border-color: #ffe5ff;
+}
+
+.Btopic1{
+    color: #1e1e1e;
+    letter-spacing: -0.04em;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 220px;
+    margin-bottom: 50px;
+    font-size: 2rem;
+    line-height: 1.2;
+}
+
+.form{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.Email{
+    width: 565px;
+    height: 60px;
+    padding-left: 70px;
+    border-radius: 50px;
+    font-size: 20px;
+    border: 1px solid #b7b8bb;
+    margin-right: 15px;
+    box-sizing:border-box;
+}
+
+.eButton{
+    width: 180px;
+    height: 60px;
+    border-radius: 50px;
+    font-size: 16px;
+    border: 1px solid #e6007a;
+    color: #e6007a;
+    background-color: inherit;
+    font-weight: bold;
+}
+
+.eButton:hover{
+    background-color: #e6007a;
+    color: white;
+}
+
+
+.wrapperForm {
+    position:relative;
+    text-align: center;
+    margin-bottom: 30px;
+}
+  
+.iconMail {
+    height: 35px;
+    width: 35px;
+    padding: 4px;
+    position: absolute;
+    box-sizing: border-box;
+    top: 62%;
+    left: 400px;
+    transform: translateY(-50%);
+    color: gray;
+}
+  
+.Btopic2{
+    color: #1e1e1e;
+    letter-spacing: -0.02rem;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 150px;
+    font-size: 0.875rem;
+    line-height: 1.5;
+}
+
+.textUnderline{
+    text-decoration: underline;
+    text-decoration-color: #e6007a;
+}
